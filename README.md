@@ -35,7 +35,7 @@
    ```
 2. install requirement
    ```sh
-     Download and install python.(very soon it's not required)
+     Download and install python. 
    ```
 3. Run the Program
    ```sh

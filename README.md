@@ -17,6 +17,7 @@
 - [2] Easy to customize your output code.
 - [3] Fast auto typing.
 - [4] Simple python code without any extra module.
+- [5] one click run.
 
 
 

@@ -1,8 +1,6 @@
  <!-- # AutoTyper | Transfer code in style  -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sd-Shivam/hack_the_mountain/main/lo.ico" alt="STA" width="240" />
-
   <p align="center">💖 AutoTyper | Transfer code in style 💖 </p>
 </p>
 

@@ -40,9 +40,10 @@
    ```
 3. Run the Program
    ```sh
-   Python generator.py
+   Python generator.py 
    ```
-   
+##[💻] Working
+   Exe file available soon till that enjoy py file in python environment 
 
 ## [😍] Contributing
 This project welcomes contributions of all types. Help  design, documentation, finding bugs are ways everyone can help on top of coding features / bug fixes. We are excited to work with the power user community to build a set of tools for helping you get a best plateform for the students.

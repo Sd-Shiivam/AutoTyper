@@ -5,7 +5,7 @@
 </p>
 
   ```
-  Now it's Time to control Show your style.
+  Under programming , very soon it's go to be independent of python environment.
   ```
 
 > Website -  https://github.com/Sd-Shivam/AutoTyper
@@ -33,10 +33,9 @@
    ```sh
    git clone https://github.com/Sd-Shivam/AutoTyper.git
    ```
-2. setup
+2. install requirement
    ```sh
-   - [1]  write down your auto typing code in data file.
-   - [2]  Update with which extension do you want save file in generator.py [line 78].
+     Download and install python.(very soon it's not required)
    ```
 3. Run the Program
    ```sh

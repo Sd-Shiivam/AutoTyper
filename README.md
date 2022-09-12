@@ -12,7 +12,7 @@
 
 ### [🎇] Ways to use it :
 
-- [1] it is too helpfull for the teachers who have to teach a same code to each student. in this case teacher can puch the that code in this program.And, insert usb    in every student laptop and the code will be typed auto, so the teacher will get time to explain that code to each student. That will be to helpfull.
+- [1] it is too helpfull for the teachers who have to teach a same code to each student. in this case teacher can put that code in this program.And, insert usb in every student laptop and the code will be typed auto, so the teacher will get time to explain that code to each student. That will be to helpfull.
 - [2] This code can be use to convert a simple usb pendrive in rubber-duck pendrive.
 - [3] In Case we want to share a part of code to friend group in stylest way then this program come in play.
 
